@@ -15,6 +15,8 @@ export class HomePage {
   btnConfirm = document.querySelector('#btn-confirm');
 
   onConfirm() {
+   //const enteredReason = this.reasonInput.value;
+
     console.log('It works!');
   };
 
